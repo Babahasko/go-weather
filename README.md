@@ -1,4 +1,4 @@
-# go-weather CLI
+# go-weather
 It is a simple weather CLI integrated with weather API https://wttr.in/
 
 # Usage
